@@ -1,20 +1,22 @@
 # INCI Protocol 🔮
 
-**A Decentralized Behavioral Data Network & Macro Risk Engine**
+**The Ultimate Behavioral Prediction Engine & Human Response Network**
 
-## Overview
-INCI Protocol bridges the gap between human psychology and on-chain macro risk analysis. By utilizing a gamified, swipe-based Web3 interface, INCI gathers crowd-sourced behavioral and emotional data to predict market volatility and sentiment shifts before they reflect on traditional charts.
+## The Vision: The Trojan Horse
+On the surface, INCI is a curiosity-driven prediction engine. Users interact with the system to ask critical questions: *"How will my boss react if I ask for a raise?"*, *"What will my partner do after this argument?"*, or *"What is the next geopolitical move of Country X?"*
 
-## The Problem
-Currently, on-chain metrics and traditional charts only show the *result* of market actions. They fail to capture the raw human emotion (panic, FOMO, stress) that triggers these actions. Centralized giants cannot gather this honest data due to a lack of user trust and fair incentives.
+Beneath the surface, INCI is building the world's most comprehensive, decentralized map of human psychology and behavioral responses. While users satisfy their curiosity, we collect the raw data of human nature.
 
-## Our Solution: Hybrid Architecture
-INCI solves the blockchain scalability issue and the centralized trust issue by utilizing a Hybrid Architecture:
-* **Off-Chain (The Muscle):** Heavy SQL databases and AI-driven sentiment analysis engines process raw behavioral inputs off-chain for maximum scalability and speed.
-* **On-Chain (The Heart):** The blockchain acts as a trust layer. Tokenomics ($INCI), Data-to-Earn reward distributions, Sybil resistance, and data hashing are executed on-chain to ensure transparency.
+## How It Works (The Data Pipeline)
+Users input key contextual parameters to receive an AI-driven "Next Best Action" prediction:
+1. **The Target (Actor):** Friend, Boss, Competitor, Nation State.
+2. **The Context (Environment):** Office, Home, Diplomatic Crisis, Public Event.
+3. **The Emotional State:** Cornered, Angry, Overconfident, Anxious.
+4. **Past Reactions:** Historical behavioral patterns (e.g., Aggressive defense, Withdrawal).
 
-## Why INCI? (The Moat)
-Data is the new oil, but *emotional and behavioral data* is the refined fuel for next-generation AI models. INCI introduces a **Data-to-Earn** model, rewarding users for their honest input while providing funds and institutional traders with unparalleled early-warning risk indicators.
+## The Moat & Tokenomics: "Train-to-Earn"
+Getting users to ask questions is easy. Getting them to report the *actual outcome* is hard. This is where $INCI token comes in. 
 
----
-*Technical Documentation and SQL Architecture details will be published soon.*
+Users are incentivized to return to the platform and input the actual real-world result of the event. By providing this critical feedback loop, they train our AI models and are instantly rewarded with **$INCI Tokens**. 
+
+We don't just predict the future; we tokenize the feedback loop of human behavior.
